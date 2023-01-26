@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 652ad4808e8595746b8ef6794e136d82
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -4406627587418884066
+    second: Bones_and_Cons|Take 001_Bones_and_Cons
+  - first:
+      74: -5864800544150558341
+    second: Bones_and_Cons|Take 001_Global_Con
+  - first:
+      74: -4161316392349716898
+    second: Bones_and_Cons|Take 001_Head_Con
+  - first:
+      74: 9125402635952735417
+    second: Bones_and_Cons|Take 001_L_Wing_Con1
+  - first:
+      74: -3387844956691992870
+    second: Bones_and_Cons|Take 001_L_Wing_Con2
+  - first:
+      74: 6246050810999360899
+    second: Bones_and_Cons|Take 001_R_Wing_Con1
+  - first:
+      74: -9082030469019408219
+    second: Bones_and_Cons|Take 001_R_Wing_Con2
+  - first:
+      74: 7209938072402088798
+    second: Bones_and_Cons|Take 001_Root_Con
+  - first:
+      74: -4255733507587722499
+    second: Bones_and_Cons|Take 001_Tail_Con
+  - first:
+      74: 8878077439335719695
+    second: Global_Con|Take 001_Global_Con
+  - first:
+      74: -6287721301790424987
+    second: Global_Con|Take 001_Head_Con
+  - first:
+      74: -2252214675237940982
+    second: Global_Con|Take 001_L_Wing_Con1
+  - first:
+      74: -2640018084342707252
+    second: Global_Con|Take 001_L_Wing_Con2
+  - first:
+      74: -3195462471933710568
+    second: Global_Con|Take 001_R_Wing_Con1
+  - first:
+      74: -2101808674269855814
+    second: Global_Con|Take 001_R_Wing_Con2
+  - first:
+      74: 6312188979468707250
+    second: Global_Con|Take 001_Root_Con
+  - first:
+      74: -6129829026518706704
+    second: Global_Con|Take 001_Tail_Con
+  - first:
+      74: 9078028508001310372
+    second: Root_Con|Take 001_Global_Con
+  - first:
+      74: -8841567067214629221
+    second: Root_Con|Take 001_Head_Con
+  - first:
+      74: 4692385577580753296
+    second: Root_Con|Take 001_L_Wing_Con1
+  - first:
+      74: -6882708443445578864
+    second: Root_Con|Take 001_L_Wing_Con2
+  - first:
+      74: 8785832772104684715
+    second: Root_Con|Take 001_R_Wing_Con1
+  - first:
+      74: -8662399181406451163
+    second: Root_Con|Take 001_R_Wing_Con2
+  - first:
+      74: 8402155154912608645
+    second: Root_Con|Take 001_Root_Con
+  - first:
+      74: 9214804690399236253
+    second: Root_Con|Take 001_Tail_Con
+  - first:
+      74: -7397921375380764620
+    second: Head_Con|Take 001_Global_Con
+  - first:
+      74: -6767978542384542060
+    second: Head_Con|Take 001_Head_Con
+  - first:
+      74: 731597002537560830
+    second: Head_Con|Take 001_L_Wing_Con1
+  - first:
+      74: -857483336471558072
+    second: Head_Con|Take 001_L_Wing_Con2
+  - first:
+      74: -4101852472853928212
+    second: Head_Con|Take 001_R_Wing_Con1
+  - first:
+      74: -3954405237337297768
+    second: Head_Con|Take 001_R_Wing_Con2
+  - first:
+      74: 8898237578006580696
+    second: Head_Con|Take 001_Root_Con
+  - first:
+      74: 7757328791810645787
+    second: Head_Con|Take 001_Tail_Con
+  - first:
+      74: 6374225884591390854
+    second: L_Wing_Con1|Take 001_Global_Con
+  - first:
+      74: -36496191906501997
+    second: L_Wing_Con1|Take 001_Head_Con
+  - first:
+      74: -5455006130304447389
+    second: L_Wing_Con1|Take 001_L_Wing_Con1
+  - first:
+      74: 5306722098674278617
+    second: L_Wing_Con1|Take 001_L_Wing_Con2
+  - first:
+      74: 301785706771172264
+    second: L_Wing_Con1|Take 001_R_Wing_Con1
+  - first:
+      74: -5654187068049867231
+    second: L_Wing_Con1|Take 001_R_Wing_Con2
+  - first:
+      74: 1119344092284619728
+    second: L_Wing_Con1|Take 001_Root_Con
+  - first:
+      74: 8946413732031133491
+    second: L_Wing_Con1|Take 001_Tail_Con
+  - first:
+      74: -6575482067918454832
+    second: L_Wing_Con2|Take 001_Global_Con
+  - first:
+      74: 4385229715491993669
+    second: L_Wing_Con2|Take 001_Head_Con
+  - first:
+      74: -8265977457002235259
+    second: L_Wing_Con2|Take 001_L_Wing_Con1
+  - first:
+      74: -4156318736329316289
+    second: L_Wing_Con2|Take 001_L_Wing_Con2
+  - first:
+      74: 4299852660444693718
+    second: L_Wing_Con2|Take 001_R_Wing_Con1
+  - first:
+      74: 2704262491332511386
+    second: L_Wing_Con2|Take 001_R_Wing_Con2
+  - first:
+      74: -5392459580698197838
+    second: L_Wing_Con2|Take 001_Root_Con
+  - first:
+      74: 1087287474590166085
+    second: L_Wing_Con2|Take 001_Tail_Con
+  - first:
+      74: 775418081252477789
+    second: R_Wing_Con1|Take 001_Global_Con
+  - first:
+      74: -5946163442289006203
+    second: R_Wing_Con1|Take 001_Head_Con
+  - first:
+      74: -5087572733023296543
+    second: R_Wing_Con1|Take 001_L_Wing_Con1
+  - first:
+      74: 4888177918175409688
+    second: R_Wing_Con1|Take 001_L_Wing_Con2
+  - first:
+      74: -4792761550828566943
+    second: R_Wing_Con1|Take 001_R_Wing_Con1
+  - first:
+      74: -6831845743095252947
+    second: R_Wing_Con1|Take 001_R_Wing_Con2
+  - first:
+      74: -5296309508165647052
+    second: R_Wing_Con1|Take 001_Root_Con
+  - first:
+      74: 810802268448439124
+    second: R_Wing_Con1|Take 001_Tail_Con
+  - first:
+      74: 1480298863501231001
+    second: R_Wing_Con2|Take 001_Global_Con
+  - first:
+      74: -9057867543233041959
+    second: R_Wing_Con2|Take 001_Head_Con
+  - first:
+      74: 3060991268005417705
+    second: R_Wing_Con2|Take 001_L_Wing_Con1
+  - first:
+      74: -828704650855947518
+    second: R_Wing_Con2|Take 001_L_Wing_Con2
+  - first:
+      74: -7017714874015781034
+    second: R_Wing_Con2|Take 001_R_Wing_Con1
+  - first:
+      74: -5120669102017886531
+    second: R_Wing_Con2|Take 001_R_Wing_Con2
+  - first:
+      74: -7557389223346768105
+    second: R_Wing_Con2|Take 001_Root_Con
+  - first:
+      74: 3196539248337950843
+    second: R_Wing_Con2|Take 001_Tail_Con
+  - first:
+      74: -1732672879672988471
+    second: Tail_Con|Take 001_Global_Con
+  - first:
+      74: -6827866879664509969
+    second: Tail_Con|Take 001_Head_Con
+  - first:
+      74: -6343591538394997140
+    second: Tail_Con|Take 001_L_Wing_Con1
+  - first:
+      74: 6453279239800399995
+    second: Tail_Con|Take 001_L_Wing_Con2
+  - first:
+      74: -7184439927494018876
+    second: Tail_Con|Take 001_R_Wing_Con1
+  - first:
+      74: 4993535232249722564
+    second: Tail_Con|Take 001_R_Wing_Con2
+  - first:
+      74: 1100792207308192503
+    second: Tail_Con|Take 001_Root_Con
+  - first:
+      74: 6148034917789542279
+    second: Tail_Con|Take 001_Tail_Con
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
